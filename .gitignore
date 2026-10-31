@@ -1,0 +1,6 @@
+node_modules
+out
+.env
+
+# Material de tus propios proyectos (guion, marca, capturas). Quita esta línea si quieres subirlo.
+material/

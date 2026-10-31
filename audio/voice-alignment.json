@@ -1,0 +1,227 @@
+{
+ "request": {
+  "text": "[excited] Este vídeo no se ha editado: es código. Escribes un guion, ElevenLabs le pone voz y Remotion convierte cada escena en animación. Las pantallas no son capturas: se animan solas. Cambias una frase, vuelves a renderizar y listo. La plantilla es tuya.",
+  "voice_id": "7QQzpAyzlKTVrRzQJmTE",
+  "model_id": "eleven_v3",
+  "voice_settings": {
+   "stability": 0.5
+  }
+ },
+ "words": [
+  {
+   "word": "[excited]",
+   "start": 0,
+   "end": 0.128
+  },
+  {
+   "word": "Este",
+   "start": 0.134,
+   "end": 0.16
+  },
+  {
+   "word": "vídeo",
+   "start": 0.2,
+   "end": 0.4
+  },
+  {
+   "word": "no",
+   "start": 0.48,
+   "end": 0.64
+  },
+  {
+   "word": "se",
+   "start": 0.693,
+   "end": 0.8
+  },
+  {
+   "word": "ha",
+   "start": 0.827,
+   "end": 0.88
+  },
+  {
+   "word": "editado:",
+   "start": 0.928,
+   "end": 1.44
+  },
+  {
+   "word": "es",
+   "start": 1.493,
+   "end": 1.6
+  },
+  {
+   "word": "código.",
+   "start": 1.68,
+   "end": 2.32
+  },
+  {
+   "word": "Escribes",
+   "start": 2.347,
+   "end": 2.72
+  },
+  {
+   "word": "un",
+   "start": 2.747,
+   "end": 2.8
+  },
+  {
+   "word": "guion,",
+   "start": 2.853,
+   "end": 3.28
+  },
+  {
+   "word": "ElevenLabs",
+   "start": 3.326,
+   "end": 3.84
+  },
+  {
+   "word": "le",
+   "start": 3.893,
+   "end": 4
+  },
+  {
+   "word": "pone",
+   "start": 4.04,
+   "end": 4.16
+  },
+  {
+   "word": "voz",
+   "start": 4.22,
+   "end": 4.4
+  },
+  {
+   "word": "y",
+   "start": 4.56,
+   "end": 4.72
+  },
+  {
+   "word": "Remotion",
+   "start": 4.78,
+   "end": 5.28
+  },
+  {
+   "word": "convierte",
+   "start": 5.312,
+   "end": 5.84
+  },
+  {
+   "word": "cada",
+   "start": 5.872,
+   "end": 6
+  },
+  {
+   "word": "escena",
+   "start": 6.06,
+   "end": 6.4
+  },
+  {
+   "word": "en",
+   "start": 6.48,
+   "end": 6.64
+  },
+  {
+   "word": "animación.",
+   "start": 6.688,
+   "end": 7.6
+  },
+  {
+   "word": "Las",
+   "start": 7.64,
+   "end": 7.76
+  },
+  {
+   "word": "pantallas",
+   "start": 7.792,
+   "end": 8.16
+  },
+  {
+   "word": "no",
+   "start": 8.213,
+   "end": 8.32
+  },
+  {
+   "word": "son",
+   "start": 8.38,
+   "end": 8.56
+  },
+  {
+   "word": "capturas:",
+   "start": 8.592,
+   "end": 9.12
+  },
+  {
+   "word": "se",
+   "start": 9.147,
+   "end": 9.2
+  },
+  {
+   "word": "animan",
+   "start": 9.248,
+   "end": 9.68
+  },
+  {
+   "word": "solas.",
+   "start": 9.74,
+   "end": 10.36
+  },
+  {
+   "word": "Cambias",
+   "start": 10.416,
+   "end": 10.8
+  },
+  {
+   "word": "una",
+   "start": 10.84,
+   "end": 10.96
+  },
+  {
+   "word": "frase,",
+   "start": 11.013,
+   "end": 11.44
+  },
+  {
+   "word": "vuelves",
+   "start": 11.472,
+   "end": 11.76
+  },
+  {
+   "word": "a",
+   "start": 11.84,
+   "end": 11.92
+  },
+  {
+   "word": "renderizar",
+   "start": 11.943,
+   "end": 12.32
+  },
+  {
+   "word": "y",
+   "start": 12.48,
+   "end": 12.64
+  },
+  {
+   "word": "listo.",
+   "start": 12.688,
+   "end": 13.2
+  },
+  {
+   "word": "La",
+   "start": 13.227,
+   "end": 13.28
+  },
+  {
+   "word": "plantilla",
+   "start": 13.32,
+   "end": 13.76
+  },
+  {
+   "word": "es",
+   "start": 13.84,
+   "end": 14
+  },
+  {
+   "word": "tuya.",
+   "start": 14.04,
+   "end": 14.4
+  }
+ ]
+}

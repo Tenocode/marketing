@@ -1,0 +1,46 @@
+{
+  "voice": {
+    "name": "Dani",
+    "voice_id": "7QQzpAyzlKTVrRzQJmTE",
+    "model_id": "eleven_v3",
+    "voice_settings": {
+      "stability": 0.5
+    },
+    "tag": "[excited]",
+    "tempo": 1
+  },
+  "scenes": [
+    {
+      "scene": "title",
+      "text": "Este vídeo no se ha editado: es código.",
+      "min": 2.5,
+      "delay": 0.3
+    },
+    {
+      "scene": "pipeline",
+      "text": "Escribes un guion, ElevenLabs le pone voz y Remotion convierte cada escena en animación.",
+      "min": 4
+    },
+    {
+      "scene": "phone",
+      "text": "Las pantallas no son capturas: se animan solas.",
+      "min": 3.5
+    },
+    {
+      "scene": "terminal",
+      "text": "Cambias una frase, vuelves a renderizar y listo.",
+      "min": 3.5
+    },
+    {
+      "scene": "outro",
+      "text": "La plantilla es tuya.",
+      "min": 3.5
+    }
+  ],
+  "music": {
+    "note": "La pista incluida es un recorte de 25 s de la música del vídeo de Zash, generada con un prompt casi igual. Cambia el prompt y ejecuta npm run music -- --new para la tuya.",
+    "model_id": "music_v1",
+    "length_ms": 30000,
+    "prompt": "Warm, modern and optimistic instrumental for a tech product video. Soft felt piano motif with gentle plucked synth arpeggios and airy pads, over a light, clean electronic beat (soft kick, rim clicks, shaker) at 100 BPM that keeps a steady forward pulse. Inspiring, premium and hopeful, like an Apple product video. Understated and consistent so it sits under a Spanish voice-over: no big drops and no lead melody competing with the voice. Starts right away without silence and ends on a soft sustained chord. No vocals."
+  }
+}

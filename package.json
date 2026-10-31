@@ -1,0 +1,34 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "Plantilla para hacer vídeos con código: Remotion para la imagen y ElevenLabs para la voz y la música.",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=20.12"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "@remotion/fonts": "4.0.529",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.529"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "prettier": "3.8.1",
+    "typescript": "5.7.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Demo out/demo.mp4 --codec=h264",
+    "gif": "remotion render Demo docs/demo.gif --codec=gif --every-nth-frame=3 --scale=0.4",
+    "stills": "node scripts/stills.mjs",
+    "voice": "node scripts/voice.mjs",
+    "music": "node scripts/music.mjs",
+    "lint": "tsc",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "packageManager": "pnpm@12.5.1"
+}
