@@ -1,6 +1,6 @@
 # Ejemplo real: el encargo del vídeo de Zash
 
-Este es el prompt con el que se montó el vídeo de Zash para la final del UR StartupCamp '26, en la Universidad de La Rioja. Zash es una app de salud con una pulsera que fotografía lo que comes y aprende tu normal para avisarte antes de que te pongas malo.
+Este es el prompt con el que se montó el vídeo de Zash, un proyecto de idea de negocio. Zash es una app de salud con una pulsera que fotografía lo que comes y aprende tu normal para avisarte antes de que te pongas malo.
 
 El material del proyecto no está en este repo. Lo que interesa es la estructura del encargo: contexto, qué leer y en qué orden, todo lo que debe verse, storyboard antes de montar y reglas concretas de marca, texto y render.
 
@@ -8,7 +8,7 @@ El vídeo final acabó llevando voz en off de ElevenLabs en lugar de narración 
 
 ---
 
-Vamos a montar con Remotion el vídeo de Zash para la final del hackathon UR StartupCamp '26 (Universidad de La Rioja). Remotion ya está instalado en esta carpeta de dev. Te he dejado en `zash-remotion/` todo el material del proyecto.
+Vamos a montar con Remotion el vídeo de Zash para la presentación final del proyecto. Remotion ya está instalado en esta carpeta de dev. Te he dejado en `zash-remotion/` todo el material del proyecto.
 
 **Contexto.** Zash es una app de salud con una pulsera, Zash Aro, que tiene una pantalla táctil y una cámara. Haces un clic y la pulsera fotografía tu comida. Sus sensores aprenden «tu normal» y te avisan con un semáforo (verde, amarillo o rojo) antes de que te pongas malo. El vídeo dura unos 55 segundos y se proyecta en mitad del pitch: arranca justo cuando el ponente dice «clic» con la pulsera en la muñeca. No lleva voz grabada, porque la narramos en directo encima; solo lleva música suave. Por eso el texto en pantalla debe ser mínimo y grande, y los tiempos tienen que dejarnos hablar.
 

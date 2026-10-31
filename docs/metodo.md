@@ -1,6 +1,6 @@
 # El método
 
-Así se hizo el vídeo de Zash para el UR StartupCamp '26, y así está pensada esta plantilla. Funciona igual si escribes tú el código o si se lo encargas a un asistente como Claude Code.
+Así se hizo el vídeo de Zash, un proyecto de idea de negocio, y así está pensada esta plantilla. Funciona igual si escribes tú el código o si se lo encargas a un asistente como Claude Code.
 
 ## 1. Reúne el material antes de nada
 

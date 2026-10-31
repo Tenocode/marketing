@@ -6,7 +6,7 @@ Plantilla para hacer vídeos animados sin programa de edición. **Remotion** con
 
 Este GIF es la demo que trae el repo: cinco escenas y 18 segundos. Para verla con voz y música, ejecuta `npm run render`.
 
-La plantilla nació del vídeo que hice para el pitch de **Zash** en el UR StartupCamp '26 de la Universidad de La Rioja. En [examples/zash-prompt.md](examples/zash-prompt.md) tienes el prompt real con el que se montó.
+La plantilla nació del vídeo que hice para **Zash**, un proyecto de idea de negocio. En [examples/zash-prompt.md](examples/zash-prompt.md) tienes el prompt real con el que se montó.
 
 ## Qué necesitas
 
